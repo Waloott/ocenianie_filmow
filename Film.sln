@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekt", "Film\Projekt.csproj", "{E60D9B14-44CF-450F-901D-0ABD10498E82}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUI2", "GUI2\GUI2.csproj", "{31EE266E-E74C-447F-8019-8273521E777C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60D9B14-44CF-450F-901D-0ABD10498E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60D9B14-44CF-450F-901D-0ABD10498E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60D9B14-44CF-450F-901D-0ABD10498E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60D9B14-44CF-450F-901D-0ABD10498E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EE266E-E74C-447F-8019-8273521E777C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EE266E-E74C-447F-8019-8273521E777C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EE266E-E74C-447F-8019-8273521E777C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EE266E-E74C-447F-8019-8273521E777C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6926892-9A25-4804-BF27-0F2E2D43C2F8}
+	EndGlobalSection
+EndGlobal
