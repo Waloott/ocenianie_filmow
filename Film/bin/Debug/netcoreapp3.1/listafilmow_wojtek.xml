@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaFilmow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LiczbaFilmow>1</LiczbaFilmow>
+  <Biblioteka>
+    <OcenaFilm>
+      <gatunek>inne</gatunek>
+      <Tytul>siem xd</Tytul>
+      <Gatunek>inne</Gatunek>
+      <Ocena>93</Ocena>
+      <DataDodania>2021-01-21T19:40:48.1956713+01:00</DataDodania>
+    </OcenaFilm>
+  </Biblioteka>
+</ListaFilmow>

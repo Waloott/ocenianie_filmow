@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaFilmow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <biblioteka>
+    <OcenaFilm>
+      <gatunek>inne</gatunek>
+      <Tytul>shrekson</Tytul>
+      <Gatunek>inne</Gatunek>
+      <Ocena>5</Ocena>
+      <DataDodania>2021-01-22T19:44:31.0632204+01:00</DataDodania>
+    </OcenaFilm>
+    <OcenaFilm>
+      <gatunek>inne</gatunek>
+      <Tytul>shrekson</Tytul>
+      <Gatunek>inne</Gatunek>
+      <Ocena>5</Ocena>
+      <DataDodania>2021-01-22T19:44:31.0632204+01:00</DataDodania>
+    </OcenaFilm>
+  </biblioteka>
+  <LiczbaFilmow>1</LiczbaFilmow>
+  <Biblioteka>
+    <OcenaFilm>
+      <gatunek>inne</gatunek>
+      <Tytul>shrekson</Tytul>
+      <Gatunek>inne</Gatunek>
+      <Ocena>5</Ocena>
+      <DataDodania>2021-01-22T19:44:31.0632204+01:00</DataDodania>
+    </OcenaFilm>
+    <OcenaFilm>
+      <gatunek>inne</gatunek>
+      <Tytul>shrekson</Tytul>
+      <Gatunek>inne</Gatunek>
+      <Ocena>5</Ocena>
+      <DataDodania>2021-01-22T19:44:31.0632204+01:00</DataDodania>
+    </OcenaFilm>
+  </Biblioteka>
+</ListaFilmow>

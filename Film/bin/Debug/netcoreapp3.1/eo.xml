@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaFilmow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LiczbaFilmow>1</LiczbaFilmow>
+  <biblioteka>
+    <OcenaFilm>
+      <gatunek>komedia</gatunek>
+      <Tytul>Siema</Tytul>
+      <Gatunek>komedia</Gatunek>
+      <Ocena>5</Ocena>
+      <DataDodania>2021-01-22T20:14:55.8901605+01:00</DataDodania>
+    </OcenaFilm>
+  </biblioteka>
+</ListaFilmow>

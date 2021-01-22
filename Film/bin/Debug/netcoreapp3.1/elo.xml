@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaFilmow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <biblioteka>
+    <OcenaFilm>
+      <gatunek>komedia</gatunek>
+      <Tytul>Shrek</Tytul>
+      <Gatunek>komedia</Gatunek>
+      <Ocena>7</Ocena>
+      <DataDodania>2021-01-22T19:44:20.0784099+01:00</DataDodania>
+    </OcenaFilm>
+    <OcenaFilm>
+      <gatunek>akcja</gatunek>
+      <Tytul>Piraci</Tytul>
+      <Gatunek>akcja</Gatunek>
+      <Ocena>9</Ocena>
+      <DataDodania>2021-01-22T19:44:20.0828025+01:00</DataDodania>
+    </OcenaFilm>
+  </biblioteka>
+  <LiczbaFilmow>2</LiczbaFilmow>
+  <Biblioteka>
+    <OcenaFilm>
+      <gatunek>komedia</gatunek>
+      <Tytul>Shrek</Tytul>
+      <Gatunek>komedia</Gatunek>
+      <Ocena>7</Ocena>
+      <DataDodania>2021-01-22T19:44:20.0784099+01:00</DataDodania>
+    </OcenaFilm>
+    <OcenaFilm>
+      <gatunek>akcja</gatunek>
+      <Tytul>Piraci</Tytul>
+      <Gatunek>akcja</Gatunek>
+      <Ocena>9</Ocena>
+      <DataDodania>2021-01-22T19:44:20.0828025+01:00</DataDodania>
+    </OcenaFilm>
+  </Biblioteka>
+</ListaFilmow>

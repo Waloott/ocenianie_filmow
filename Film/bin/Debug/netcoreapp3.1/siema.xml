@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaFilmow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <biblioteka>
+    <OcenaFilm>
+      <gatunek>akcja</gatunek>
+      <Tytul>Piraci</Tytul>
+      <Gatunek>akcja</Gatunek>
+      <Ocena>10</Ocena>
+      <DataDodania>2021-01-22T18:29:17.4210709+01:00</DataDodania>
+    </OcenaFilm>
+  </biblioteka>
+  <LiczbaFilmow>1</LiczbaFilmow>
+  <Biblioteka>
+    <OcenaFilm>
+      <gatunek>akcja</gatunek>
+      <Tytul>Piraci</Tytul>
+      <Gatunek>akcja</Gatunek>
+      <Ocena>10</Ocena>
+      <DataDodania>2021-01-22T18:29:17.4210709+01:00</DataDodania>
+    </OcenaFilm>
+  </Biblioteka>
+</ListaFilmow>

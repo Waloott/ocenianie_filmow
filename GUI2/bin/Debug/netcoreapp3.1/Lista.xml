@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaFilmow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LiczbaFilmow>4</LiczbaFilmow>
+  <dataDodania>0001-01-01T00:00:00</dataDodania>
+  <biblioteka>
+    <OcenaFilm>
+      <gatunek>akcja</gatunek>
+      <Tytul>shrek</Tytul>
+      <Gatunek>akcja</Gatunek>
+      <Ocena>3</Ocena>
+      <DataDodania>2021-01-22T20:10:13.6427898+01:00</DataDodania>
+    </OcenaFilm>
+    <OcenaFilm>
+      <gatunek>dramat</gatunek>
+      <Tytul>eee</Tytul>
+      <Gatunek>dramat</Gatunek>
+      <Ocena>2</Ocena>
+      <DataDodania>2021-01-22T22:51:54.4435156+01:00</DataDodania>
+    </OcenaFilm>
+    <OcenaFilm>
+      <gatunek>komedia</gatunek>
+      <Tytul>Shrek</Tytul>
+      <Gatunek>komedia</Gatunek>
+      <Ocena>5</Ocena>
+      <DataDodania>2021-01-22T20:19:25.2594353+01:00</DataDodania>
+    </OcenaFilm>
+  </biblioteka>
+</ListaFilmow>
