@@ -1,1 +1,1 @@
-W branch alpha jest wersja nieskończona jeszcze w 100% ale koledzy pracują do nocy a ja poszedłem wcześniej spać. Rano zostanie wszystko wrzucone (w tym testy jednostkowe i diagram UML) i wszystko będzie działać
+
